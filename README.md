@@ -2,7 +2,7 @@
 - 👀 I’m interested in product management
 - 🌱 I’m currently learning how to effectively create readme files, HTML, and JavaScript
 - 💞️ I’m looking to collaborate on developing softwares that merge finance and technology to help make the world a better place. 
-- 📫 How to reach me; owenguske@outlook.com
+- 📫 How to reach me: owenguske@outlook.com
 
 
 <!---
